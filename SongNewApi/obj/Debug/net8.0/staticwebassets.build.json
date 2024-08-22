@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5GlYKfXuuhUUSW9mHRN30RGTWE28fLB3VsrEL+dS0Dg=",
+  "Source": "SongNewApi",
+  "BasePath": "_content/SongNewApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SongNewApi\\wwwroot",
+      "Source": "SongNewApi",
+      "ContentRoot": "C:\\Users\\91827\\source\\repos\\SongNewApi\\SongNewApi\\wwwroot\\",
+      "BasePath": "_content/SongNewApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
